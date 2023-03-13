@@ -1,4 +1,4 @@
-# Money Manager (PHP Expenses manager)
+# Expenses Manager (PHP Expenses manager)
 
 ### Description
 
